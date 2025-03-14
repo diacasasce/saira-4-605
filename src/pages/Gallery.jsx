@@ -5,37 +5,43 @@ const Gallery = () => {
       id: 1, 
       title: "Sala de Estar", 
       description: "Amplia sala de estar con luz natural", 
-      url: "/src/assets/sala.jpg" 
+      url: "https://egd1wrmxnyhcnpwv.public.blob.vercel-storage.com/Sala-MvZ7nBVLW12biybSzvjtGpoa8P4quV.jpg" 
     },
-    { 
-      id: 2, 
-      title: "Cocina", 
-      description: "Cocina moderna con electrodomésticos de acero inoxidable", 
-      url: "/src/assets/cocina.jpg" 
+    {
+      id:2,
+      title: 'zona social',
+      description: 'la descripcion de la zona social',
+      url: 'https://egd1wrmxnyhcnpwv.public.blob.vercel-storage.com/zona-social-68SM4z9XW5H6M9cE0wAfsxT66kUqxH.jpg'
     },
     { 
       id: 3, 
-      title: "Dormitorio Principal", 
-      description: "Cómodo dormitorio principal con cama king-size", 
-      url: "/src/assets/habitacion-principal.jpg" 
+      title: "Cocina", 
+      description: "Cocina moderna con electrodomésticos de acero inoxidable", 
+      url: "https://egd1wrmxnyhcnpwv.public.blob.vercel-storage.com/cocina-J9DMUfy9WRN4LtCqqxgMaMw6nlhTr8.jpgyarn de" 
     },
     { 
       id: 4, 
-      title: "Baño Principal", 
-      description: "Elegante baño con ducha y bañera", 
-      url: "/src/assets/bano-principal.jpg" 
+      title: "Dormitorio Principal", 
+      description: "Cómodo dormitorio principal con cama king-size", 
+      url: "https://egd1wrmxnyhcnpwv.public.blob.vercel-storage.com/habitacion-principal-gzdANQYaXsLcBWqphlnQJPpuSui5f5.jpg" 
     },
     { 
       id: 5, 
-      title: "Segunda Habitación", 
-      description: "Acogedora segunda habitación", 
-      url: "/src/assets/habitacion-secundaria.jpg" 
+      title: "Baño Principal", 
+      description: "Elegante baño con ducha y bañera", 
+      url: "https://egd1wrmxnyhcnpwv.public.blob.vercel-storage.com/bano-principal-78u4j2qz6rg4v5zPhi5AJgz6TftKCr.jpg" 
     },
     { 
       id: 6, 
+      title: "Segunda Habitación", 
+      description: "Acogedora segunda habitación", 
+      url: "https://egd1wrmxnyhcnpwv.public.blob.vercel-storage.com/habitacion-secundaria-P44e7a42Y0SPg2aopwu5kPCLVM7shc.jpg" 
+    },
+    { 
+      id: 7, 
       title: "Baño Secundario", 
       description: "Elegante baño con ducha y bañera", 
-      url: "/src/assets/bano-secundario.jpg" 
+      url: "https://egd1wrmxnyhcnpwv.public.blob.vercel-storage.com/bano-secundario-Gqs36pWIkUJv8arcU5hJJDM8p7ngvJ.jpg" 
     },
   ];
 
